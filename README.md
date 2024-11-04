@@ -1,5 +1,3 @@
-# currency-converter
-A C++ project that converts currencies from one to another.
 # Currency Converter
 
 A simple currency converter program in C++ that allows users to convert amounts between various currencies. The program supports several major currencies, including USD, GBP, INR, NZD, CNY, AUD, JPY, CAD, and EUR.
